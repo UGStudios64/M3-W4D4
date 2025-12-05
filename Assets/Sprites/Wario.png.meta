@@ -1,0 +1,6359 @@
+fileFormatVersion: 2
+guid: 47b2b78e668cd2c43a7322462dd64d84
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wario_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 933
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b23ec5ff8d9eb4c9eccb8aaf22c7fe
+      internalID: 1281638809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 933
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad065f44d347cbf4f9588da61879a36a
+      internalID: 1168302285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 933
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91069de0ef17b2049b80176115736a1b
+      internalID: -541032865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 933
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3b282c495710749b7b35c95ec74524
+      internalID: 1321198722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 933
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2615fd519c4bda74aa6dfa5d038949cf
+      internalID: 5534249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 933
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd18a11a82c9b24e936474298b00e86
+      internalID: 582816356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 935
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98422fc959eb8c548b1437da9421f4a5
+      internalID: -1950796623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 935
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc55cae067153af43ac7702ac78538ea
+      internalID: -844628623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 935
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774ecf07c2e30c14db2c407f20989230
+      internalID: 408202124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 935
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822427ae18d41ea469b2fd9300c53228
+      internalID: 1891715591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 935
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218a08c0c5d9fb94c850c7eded393c79
+      internalID: 781944532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 935
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7c17f1e1f4dd24d975d2f298b7bd4a
+      internalID: -1949498211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_12
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 931
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667bab617194250498fd614a2173e518
+      internalID: -237838354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 931
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca48f75992ecf4f47a6e9e04dff0199e
+      internalID: -1694934845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_14
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 931
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9b201af3545d24c8d0de4171ac5140
+      internalID: 1193950308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_15
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 931
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b94c0a1dc08c14fb26abe165ca3ee7
+      internalID: 1835129773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 931
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3654ea59ad3d64f9d0e7bd29f3bd0d
+      internalID: 1033755638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 894
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b132b1bc5e15a4478877ed303aed22f
+      internalID: -187260788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 893
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cc8db509d719d48819ebb153c90d3c
+      internalID: 1745696774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 893
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397d0f8482a95e8489a0cab537b7f9ca
+      internalID: -528849860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 893
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a09a18e8d04e1458548846a8dc7af7
+      internalID: -494898646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_21
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 894
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a1ad03c7be1945b43d3ce0679aa92
+      internalID: -2067312086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 893
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9137d78e43e424ea956d15c55bc84a
+      internalID: 773992682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 893
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108835f2c7f81124bad52369920cc2a6
+      internalID: 268945463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 893
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8afed0f07c02064b8b3cfa93784d0e7
+      internalID: -1558583118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 892
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de562a6cfe7d00a41badb7050e314dc3
+      internalID: 2104159859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 892
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30599a29131a4b348ab32d70544578c7
+      internalID: -524760325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 893
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028d2cff1be8530459f42ad9dae761ab
+      internalID: 1214494341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_28
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 893
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca32c08157e3bc54daddcd3742961a1f
+      internalID: -912791268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_29
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 884
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e818db0e9c7c9ff49beb4930b18abaeb
+      internalID: -1926028199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 891
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deb1df14aeb9d24cb9924ec62cce935
+      internalID: -122360950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 891
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27eca2ef94c15b42b8ba9d302bedce5
+      internalID: 1596193734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_32
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 891
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024d243243158b34aab80aef038b1f10
+      internalID: 1394665830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_33
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 891
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f03154bfc8ec243954efa8b7f3cc93
+      internalID: -646174203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_34
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 891
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619493b6832e3624583cb6cc57c1ea04
+      internalID: 1507242394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 848
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabfca9b649793a48b3e814bae194629
+      internalID: 856641237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_36
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 847
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad62d5481569bdf46be7cf0fafa945bd
+      internalID: -1242208665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 846
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83392a0617082d246af763b27aca949c
+      internalID: -1697265360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 846
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffc39171d446cb4a970ae0a30c4d855
+      internalID: -1249831223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_39
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 847
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aef489eef88da429a2617464a5f8d0
+      internalID: -1094854206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 846
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e90a38c6321cd343bb02d910f3f5b21
+      internalID: 1679070241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 847
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f947fda33ba29d4080423959fea312a
+      internalID: -937441793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_42
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 848
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378399448bb1db142892dec8d2f2489f
+      internalID: 781995520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_43
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 847
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcd9084d64090642a744a7ee0cd29d4
+      internalID: 1088079300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_44
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 847
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8218538de4539894ea85e725aa72fd95
+      internalID: -1239411702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_45
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 848
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de7db8ac9c8ac4cbb5ffea646cdfce
+      internalID: 127260085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_46
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 849
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857e6e3bfe45569498fa22a25a1b12b1
+      internalID: -310190945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_47
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 852
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9dc59809532384fb5709c0cc3d0e72
+      internalID: 825695264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_48
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 848
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d9c0e1d7d12ab4d8541cdca8a61ea8
+      internalID: -939832728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_49
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 848
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df44b598502d80c41948e87c2a292d25
+      internalID: -1519014853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_50
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 848
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4353bdcd399956149bef1f7cf1f1d723
+      internalID: -682176171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_51
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 848
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e62539978757134bb124cb6bb05974e
+      internalID: 734772417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_52
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 848
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d222a81cfe07f6d44b55d532205d3bb6
+      internalID: -1148467568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_53
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 803
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87086d863a1600b44a0b6c92b3cd20bb
+      internalID: 42688804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 803
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da97a34154624842a6242bbe0113af4
+      internalID: -2096245051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 802
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61e3337cb10d1d4ab61a9e38869ac79
+      internalID: 452329757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 802
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bdadfb6f216fd4284a8c0e5e50d0a2
+      internalID: 1978408635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 803
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec79afe7fffe4244b55a116d1a2ebfe
+      internalID: -1096293503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 803
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0accfc6245ff6478c4eb52ef9bfabb
+      internalID: 347623072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 803
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93cc63dbcaf4ef4d92c6ad324954a91
+      internalID: -897025145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_60
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 804
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c7f7a4b46937642bd83396a7c2426d
+      internalID: -1288141975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_61
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 803
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b01ed379326e446b9ff741a335ea60
+      internalID: 157130903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 803
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51521b9eaa200c24995b921eb0d6b172
+      internalID: -1481784667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_63
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 803
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fc3a49eb17ebe4aa5205926fac1c4e
+      internalID: -907458912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_64
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 804
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81439cc5b64af6949a19a174e2558d33
+      internalID: 475673512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_65
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 806
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6962625466db7eb4db3b71a14fa0e1ac
+      internalID: -406229099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_66
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 806
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee33e7c1872455439bb6a452e16c556
+      internalID: -1999399962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_67
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 806
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec387a17edce0d45abb701ad52c9574
+      internalID: -230487332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_68
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 806
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b1571e763aa084a96d0cb62e0f384a
+      internalID: 63609041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_69
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 806
+        width: 33
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3af9c6beb60c9409c44673b45de831
+      internalID: 749496699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_70
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 746
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a3eed7b862ba849ae4caa8e73541c0
+      internalID: 477850934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_71
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 741
+        width: 35
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c5acec5ab99364d95b7b8b8f7f4534
+      internalID: 1885099826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 744
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486da7bb2da2f564aa7aa876922bc83d
+      internalID: -2046229603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_73
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 747
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de580d5e597cf3448a403548a695632d
+      internalID: 1792172190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_74
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 744
+        width: 35
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcd629b2c78f1b4c95a9ac81a27eeb0
+      internalID: 1440063037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_75
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 750
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaff8541ab0a064d99b919aacde221b
+      internalID: 828969288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_76
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 744
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8d40f46c724eb4dabe1260a7fe2c8d
+      internalID: 1878055077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_77
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 743
+        width: 35
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073c4ebb19ef08945a3f71855fdf82df
+      internalID: -61965027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_78
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 744
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357326957c77ae240b94cdaee068333b
+      internalID: -1006553586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_79
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 744
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f46c7074402dac4eae04fa4d51a16b1
+      internalID: -353687567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_80
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 744
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b83537c5c494e4b87ad525de934781
+      internalID: -1714257219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_81
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 743
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708efef18c11964d997b757b9b3989e
+      internalID: 54590197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_83
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 743
+        width: 48
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8089d1644e3d5744d9481e975762baf4
+      internalID: 1808526968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_87
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 709
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a619fbd9b6e10aa46921f924cb0b18a9
+      internalID: -1814817989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_88
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 694
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ae997801d5a9d4fb765dd10d3020e0
+      internalID: -1545409236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_89
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 694
+        width: 35
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee95f3bde369534d87621df24ca5d22
+      internalID: 1004766792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_90
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 697
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bab0684c9ca6f0408c013594d6c3c50
+      internalID: 1329431832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_91
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 689
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2731c7297e00e4c479d37b427f5bb1d0
+      internalID: 1402494769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_92
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 689
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cdf6eba4dcf244b9f1d2f2ce4eca45
+      internalID: -603535615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_93
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 692
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264c2f7b1cfd4ca4798981d8af340101
+      internalID: 929825074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_94
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 692
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e411a06f09b6ce45a6fe146e9d23174
+      internalID: -2095285897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_95
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 693
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a271c08a882b15940a64cfb21472f95f
+      internalID: 1602532699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_96
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 693
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d3c027efc3f2458618257e3585294
+      internalID: 355822168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_97
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 694
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afb8d43e7f08f34c9abcc571100e4b4
+      internalID: -1848885555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_98
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 692
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c91c734984e7d4084811fa579dc510
+      internalID: -485606521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_100
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 693
+        width: 48
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5698fe262fd62a469e889b0bceb50d9
+      internalID: -248081841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_104
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 667
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959102c2c31f1584688dca5945aa5289
+      internalID: -324934573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_105
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 650
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3fcd7af664d3b4d9f741301a40540a
+      internalID: 176402757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_106
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 650
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858117ed22bef944cb3c7f584685cedb
+      internalID: -1700973518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_107
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 653
+        width: 34
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c610f0ac14f0d4c8808d9eef16655d
+      internalID: 1440571802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_108
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 645
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fb790be7e395f419b65bb7a9689652
+      internalID: 219139487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 644
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4023ec9a3a31b6d45a16f17fad008863
+      internalID: 997559532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_110
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 643
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da71b1c54e4c7d458a58dd1cdb71370
+      internalID: 927206680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_111
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 647
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ccfd956813b154494c03cd59c02f94
+      internalID: 518521132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_112
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 648
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca9a6b38e63c30409c4f798a6309777
+      internalID: 1579508997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_113
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 649
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd0954ff915d2d439897045f2fdc0fe
+      internalID: -1033543099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_114
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 650
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa6e625a50b0da4a8e447098d311153
+      internalID: 1620179925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_115
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 648
+        width: 39
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604a8d5dd355dd9428842baa364015e4
+      internalID: -513314766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 647
+        width: 48
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f8f88596904a44ba69fd56c7613ea5
+      internalID: -179582847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_119
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 630
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81227e0f42721a4f8c90656e9cea88d
+      internalID: -1760755607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_125
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 587
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef39a76de546ff42a8ff3781fb3c347
+      internalID: -1883646261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 586
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175747ba9e16a8e4ba9581be48bc2950
+      internalID: -1185004633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_127
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 585
+        width: 29
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0989d5cd8e9707248a8846a307ab03da
+      internalID: -1162950336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_128
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 587
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c12d3a57d81a14e910765a3809faa7
+      internalID: -866703653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_129
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 587
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c4163cde2c0114da5da535ffca6249
+      internalID: -250601476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 586
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f31fa0a6a49a404dbdb1c5b79f38157
+      internalID: -1878449830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_131
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 586
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796c1a3469f9c0442a9a51f56f488683
+      internalID: -1668296183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_132
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 586
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5034400ea88557f4caa57acaadc832a3
+      internalID: 548906205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_133
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 588
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd39f646524ff724383dfb5394cf01a8
+      internalID: -279184652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_134
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 588
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ac33af4c51b6f4e810cb14c4b730cd
+      internalID: -2138255317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_135
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 588
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd52217d008036459a922d0a7f5ca67
+      internalID: -1758437873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_136
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 591
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06f1548687661d4694135c923dc1021
+      internalID: 136518556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_137
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 609
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a365bd85f4df0d74490c6d5fd139fb74
+      internalID: -1971992908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_138
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 577
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae99b6c94db267749b45782b65c1792d
+      internalID: 1437130125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_139
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 527
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d36868dda1575b4d9d17e271dc16189
+      internalID: 2062564473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_140
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 527
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed6dde27c99c8a4188ec9b824c10fe4
+      internalID: -116117982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_141
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 527
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd6f19144691c945933181ddca431dc
+      internalID: -1348345681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_142
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 527
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94afe41154d2a7745859ef4a5422e709
+      internalID: 1564209780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_143
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 527
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e34d2eac1e05148a84c1839509f98b
+      internalID: 2009653736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_144
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 527
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d76d6c54c503614ba531911ca1c5148
+      internalID: -442960503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_145
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 527
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86359c536afd36740a0092ddbcb8e7fc
+      internalID: 2101476853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_146
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 527
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84c05fc9af54dd4e92e026b9da0439b
+      internalID: -1343204503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_147
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 527
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24a67e29d51d0e4aa21fbe1190b3c0e
+      internalID: -971826269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_148
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 527
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52b2f11a9f09dd4cadf3bc7c0d5152c
+      internalID: -1011340296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_149
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 531
+        width: 43
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b4f0dd5c64c7341af480fbc6f9bf27
+      internalID: 678436656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_150
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 531
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc83ba4ed702afc4c8f93a21ffabb060
+      internalID: -1279400399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_151
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 531
+        width: 43
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de608ad445086c74ab20dcbdf8656e07
+      internalID: -270279896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_152
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 531
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1eb51dc7887c64c812476a52143ab0
+      internalID: -1870911276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_153
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 472
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bffdb18259096542bfba06755ce0055
+      internalID: -2063410192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_154
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 472
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27cd0e5f7b701b4fb1ea46f86fe2ccb
+      internalID: -446166389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_155
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 472
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e405e44bc0686d541b9e4528cf15dfca
+      internalID: -368523941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_156
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 472
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5a2ed23df0354448e3b501df6e2459
+      internalID: 1321479754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_157
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 472
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219e2cd4c7700004ba3b8f1ef4fab53d
+      internalID: -1057374850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 472
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e28380129af4d41b69c1f7c853c1cc
+      internalID: -2014952663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_159
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 472
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d023b0f53db390246932abe41ad4cfae
+      internalID: 1196040053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_160
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 472
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848119d01d5aa1342a926a4f89b9e595
+      internalID: -1818145469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_161
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 472
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2270e7fdd88534a85b0ef114c7d3b9
+      internalID: -940885336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_162
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 472
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b83e29b7d55f488da34b9b28f065b
+      internalID: 1742336646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_163
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 474
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b373527a465c3643974475b8cb8daa5
+      internalID: 149620291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_164
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 473
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba3ed541ebe30943b9aee3aa5674764
+      internalID: -1644555824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_165
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 473
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8275b23a229fa548b2dd1433a98e46e
+      internalID: -682952794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_166
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 474
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9298a6b2a2843364d9e9de5ac68c00ca
+      internalID: -226056262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_167
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 474
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b72d498f5b54bc4baa35b4e38d3abd4
+      internalID: 501161950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_168
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 414
+        width: 67
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594e0f525deb78a46aa6887238e562ac
+      internalID: 1569181609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_169
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 414
+        width: 67
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afa0bc6f907770418172943dd1c5f17
+      internalID: -1840486190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_170
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 414
+        width: 67
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e32c8c2264d00a4197b68bc69a36fe9
+      internalID: 75485800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_171
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 418
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b76940b4598344a2d880b933368e8
+      internalID: -616110550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_172
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 418
+        width: 31
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7439d693a8af9bc45a02e47fd2833dd0
+      internalID: -635352779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_173
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 420
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047e277fbfd957b4b921ca30a4a4e04d
+      internalID: 1056630622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_174
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 420
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a5eec50e3ccba49aab27a1fe58148b
+      internalID: -224338453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_175
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 420
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171836b17447294bbfa81588d050fde
+      internalID: -913925246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_176
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 420
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d77fccb5b31a440a109b77eed76dc6
+      internalID: 79859576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_177
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 422
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8208336f78cf9449b5eaa7dbe3a347
+      internalID: 765312367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_178
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 422
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150ad3326505a14409c9bbd746957cc8
+      internalID: 358522679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_179
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 422
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6995e523377efc34dbf4266b66cae8f8
+      internalID: 285039298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_180
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 366
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce069dd2bd1ed24cb560b3c4eda36a5
+      internalID: -1683857569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_181
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 366
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10165af05d0f80e4c9183d2de80ee185
+      internalID: 1065960474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_182
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 366
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b06581c8c184134ba377af076816e4e
+      internalID: 138218491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_183
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 366
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1371a488d151414a9ff841cc3f235d3
+      internalID: -1673196156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_184
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 366
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ac193df13f52943ac0215d3d62cb8b
+      internalID: 1143169389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_185
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 365
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a5c53ad4dc4ab4fbcecf4a197870e2
+      internalID: 458536112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_186
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 372
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81565f5753a2ebe49bd56cf96313fff8
+      internalID: -543131290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_187
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 372
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf47b3b25b75a34bad9e7aed6198ea6
+      internalID: 543429257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_188
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 371
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8877004b830174c9cdd65947ef316c
+      internalID: -1520380191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_189
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 372
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6f35cc3a656f3468dd3aee77f9a09d
+      internalID: -1355461258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_190
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 372
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52c3bacde20c614c8a15b8b9462d2f9
+      internalID: 237887083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_191
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 372
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dabfbdba37f234dbe91b619f879b66
+      internalID: 1428746347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_192
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 372
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374a5c9aabbc9e64fb0226903e53ea8f
+      internalID: 1997954653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_193
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 373
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8981cfff3fb5d1c4081e55f1d5f6e13a
+      internalID: 789325150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_194
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 373
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f51e38117fcdbb4c9dc1ccbc739e63d
+      internalID: 108789729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_195
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 317
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3673574735d26148992a7a268ae3c34
+      internalID: -8430841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_196
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 318
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e1a47a2adbf34ebdf7be33509655b
+      internalID: 1843082170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_197
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 318
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257ca1cf9e3b0774ba8709cf891a377c
+      internalID: 8723140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_198
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 318
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abc493149df43b498d8b134d0a38d3d
+      internalID: 1733491268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_199
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 318
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877329e689cb1c3429666b79b0025126
+      internalID: 629482721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_200
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 318
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7a5e5457979c846b77430e51e29fde
+      internalID: 210900153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_201
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 323
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cb2e4583640324db28a88686270bcb
+      internalID: -1720034205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_202
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 323
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9befb2e5a6616f74a9d9121ffda6dac4
+      internalID: -2109966630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_203
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 323
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84734ad90b4eacc4a9f859db1e5a5d1f
+      internalID: -560944421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_204
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 323
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d5f056243dc104dab26f85ea4f4d4e
+      internalID: 289051498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_205
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 323
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7eb8584060526458126af5e2497951
+      internalID: 221946001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_206
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 322
+        width: 23
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a8c38dbe62df49a321c99ecaff860
+      internalID: -1133682509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_207
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 311
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aec0f2970bed1c49b6993da238305f6
+      internalID: 851761049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_208
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 311
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5f07337bf0ef8448ec208bf527e3da
+      internalID: 1441404447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_209
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 310
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6affe6a3a0345d646ac3284a65a00e0e
+      internalID: 1982671964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_210
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 310
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81b8e26dcacc0340af7294ed401e020
+      internalID: 140962559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_211
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 273
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2981d6e45de7ffb4c837a381bf5cd10e
+      internalID: -712741176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_212
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 272
+        width: 43
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376ef2ef81777844cbadca83526f45ff
+      internalID: 760095382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_213
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 41
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397fcc46a5aa4af44b4b2753440685fd
+      internalID: 1886211101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_214
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 272
+        width: 41
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f72500438f05a34ebccd9306d440567
+      internalID: -370148903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_215
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 272
+        width: 41
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529cb0f0805a5e34683e95097f9fa2e8
+      internalID: -1455647936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_216
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 271
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a94db576682fbd4d80663c7d4a9a544
+      internalID: -953271456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_217
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 272
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa1329ec6c2ef148a366d7c47e39bf0
+      internalID: -2030219888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_218
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 262
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89580e482af7c094e999cf32e85c2b70
+      internalID: -1805774894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_221
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 262
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee06204e7e84b847b2e0cfe37f47a45
+      internalID: -1584317766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_224
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 262
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f98f318885a39644af37a3fba994b4c
+      internalID: -2021971296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_225
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 262
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0765ceb1176d7d4b89573b5c4bcabf3
+      internalID: 183046395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_226
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 262
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064cb26a95eb82c408037751dc05b445
+      internalID: 2084423788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_227
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 262
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7044411aa01aecd4e8c223db147be350
+      internalID: 1376966070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_228
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 210
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9d7cc22166d32498c3c1535394aad3
+      internalID: 1315285225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_229
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 210
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79a05cab952b034ead9092222575a5f
+      internalID: 283632803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_230
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 210
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be97cc49875a79b4babdd4f739e53695
+      internalID: 2039657107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_231
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 210
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38bfd5ae62d987418ece9c8e76337ea
+      internalID: -1343724309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_232
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 210
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90550c4676b20440a6493b04695acfe
+      internalID: 1319405653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_233
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 210
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed48e81303d62745a4f186f078dacdb
+      internalID: -1575315600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_234
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 210
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c6984bcbcd9304d92b914aef37fb62
+      internalID: 216468241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_235
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 220
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2826557bbddee664eba14da482b17112
+      internalID: 1633798527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_236
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 220
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deb16aec5956f9459e35fc7face3ac8
+      internalID: 1911434623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_237
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 219
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329bdebef94aa7648980e25cf2ae6eea
+      internalID: -775363633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_238
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 219
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5967a319327df546871197877e9ec15
+      internalID: 1632293091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_239
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 218
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d5c4c261339c448ba9bfc35bb5369c
+      internalID: -548461774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_240
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 218
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e12bf7f67a356546b333694b1f2a55e
+      internalID: -241290037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_241
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 218
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d115ec8b1925ac45a7d31bfd1aef53f
+      internalID: 1792799039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_242
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 218
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ada34371885e640a3ab081511d280e
+      internalID: 345212716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_243
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 218
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e528f852c5141a479ec5978f37f5379
+      internalID: -839673426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_244
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 162
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848af36c59af13041b47783887a32aca
+      internalID: -2034749584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_245
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 161
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d5f1916874980488698300e6da064f
+      internalID: -1199088670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_246
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 161
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc9f1eb46adaea4089d10634fd28723
+      internalID: 1778811441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_247
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 160
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bfdb523b7dccb489c0fa05fea925c0
+      internalID: -25291420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_248
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 160
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc14434372818da4db31ec7efe5d52e7
+      internalID: -633422091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_249
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 161
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b64e80368872e4ba7cf0c9d3151409
+      internalID: 2086911473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_250
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 162
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e87c4aa3f8b5084c8a631fb651bdf23
+      internalID: -2117535304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_251
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 176
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aa0dd9747cd134e860aab49323014c
+      internalID: 68810562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_252
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 176
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1ff690950964f4eb2cd2190ca6b0ed
+      internalID: -425183016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_253
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 176
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc3f2de5395edc48b0a83596e3c464b
+      internalID: 592063406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_254
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 176
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620fc68780734174eb7c2f831b859cff
+      internalID: 1900016225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_255
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 176
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4ae2eb4123a9f40ba9eb353423671f
+      internalID: -1238470183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_256
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 176
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cbfeadf20c8634d884d9c5eecc764f
+      internalID: 1493871218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_257
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 176
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf8e5279edcc2d48bb4b76d6d610a2a
+      internalID: 1670978836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_258
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702de469a103aff47b62ef37140b4b9e
+      internalID: -1633478413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_259
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 114
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1262310db607c1d4495339afd58e1936
+      internalID: -613819377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_260
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 114
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ba7d0614288b144bffb4e7b99021bf
+      internalID: 1261725618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_261
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 114
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad6826b0d0ded4faba4c2b2e9dd80e
+      internalID: 1714074293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_262
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 114
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22e340fc1f336245a3faaac405f7a95
+      internalID: -1279875698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_263
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 114
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ce9c7a56b39d14e98fd8e83f44984e
+      internalID: -79934927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_264
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 114
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b69c1cf3837344b8b17de475b0992e
+      internalID: 1318859513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_265
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 130
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65be43bc8805094badb6b72770947e1
+      internalID: 1690954834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_266
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 130
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba705ab8c305045a6b161a1a9908a8
+      internalID: -1667495463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_267
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c20e393cc087284199b90b714f7a720
+      internalID: 703565017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_268
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 130
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd400575603c2cf49b427a52ae4efa83
+      internalID: -1904778458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_269
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 130
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9919aadaae0dff74c86ab40b4389a092
+      internalID: -564750953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_270
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 130
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef1a645efdebb941a7142232dae55bf
+      internalID: 664598808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_271
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 130
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406dedadaddef994396a51ee93e833e3
+      internalID: 1317601400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_272
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 130
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660f8bd8c9b27874facbf885220391f1
+      internalID: -1174911805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_273
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 62
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53872176f8d68541b99b5653ff3eddc
+      internalID: 1016146962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_274
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 62
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d423d208b15f33949bdea87478106ad9
+      internalID: -1348086064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_275
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 61
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c3244dccab8ad4e8363fd1d00ee5fa
+      internalID: -1466387565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_276
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 61
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97002645dcfdcc44a56afe855654211
+      internalID: 177604471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_277
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 61
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bd1a17d0983784684066d6184755f7
+      internalID: 1210754878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_278
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 61
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50055b91f6850e34cad947d019fc5039
+      internalID: 434186659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_279
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 61
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f71c5d688f3c04fb8feef40efeff28
+      internalID: -759931230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_280
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 68
+        width: 46
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee21b379a472d6a4780abccc2034c94e
+      internalID: 1147615149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_281
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 76
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca747fdb0dc27b48b24c602f9ef5aac
+      internalID: 2052111703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_282
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 75
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3951d89c8bc495a46aaae6b94b4232db
+      internalID: -1543244331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_283
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 75
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae3a320bf7630947b448225c4769bf2
+      internalID: 1376693572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_284
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 81
+        width: 35
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c4372342136a546bf2fcc63aefbb76
+      internalID: -342793217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_285
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 81
+        width: 36
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12031c31275e85f4091bf03104393bdb
+      internalID: -144642777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_286
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 81
+        width: 35
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79560762d9314f642abb7890b1bfbd38
+      internalID: -572899849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_287
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a35228db8f7ca46834fd2787e46b5b
+      internalID: 1245224265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_288
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca7f3a74071ccb4193caa3d22bded6a
+      internalID: 1148819529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_289
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff6a0db7a60d384f87a2dd547dfa692
+      internalID: -537858514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_290
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5101029290aaecb40a1b9af8fbe30309
+      internalID: 1253293959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_291
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa34dde985345041a7faab26cde4a10
+      internalID: -1534193208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_292
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 8
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39ed0680fae7e342bd8e945e4b0ffea
+      internalID: 152642163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_293
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ac0d87ad4fad4fad90c246952f705
+      internalID: -9744153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_294
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 18
+        width: 35
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bd37c88b044d848979b8da2d8a09b7
+      internalID: -1029380873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_295
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 19
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffef815f545cc147b0f17a854383526
+      internalID: -1305743423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_296
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 19
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc568fcc15f867a4a99f5bda327a96ea
+      internalID: -963595015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_297
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 19
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c96b6752c59045b3d42a54e8af3ff
+      internalID: -278368592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_298
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 19
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489521a9f1ecdef4db0e6fe3e6152cc4
+      internalID: 1355153156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_299
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 19
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abec5274b610664d992f56b7757ac4d
+      internalID: -1994521035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_300
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 19
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1de958f1cbd994c9a6e88e06fbfef0
+      internalID: 2027440567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wario_301
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 19
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d736d7027372a884c9c2449ae8e4d211
+      internalID: 59859084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wario_0: 1281638809
+      Wario_1: 1168302285
+      Wario_10: 781944532
+      Wario_100: -248081841
+      Wario_101: -438144866
+      Wario_102: 1030520407
+      Wario_103: 2097950551
+      Wario_104: -324934573
+      Wario_105: 176402757
+      Wario_106: -1700973518
+      Wario_107: 1440571802
+      Wario_108: 219139487
+      Wario_109: 997559532
+      Wario_11: -1949498211
+      Wario_110: 927206680
+      Wario_111: 518521132
+      Wario_112: 1579508997
+      Wario_113: -1033543099
+      Wario_114: 1620179925
+      Wario_115: -513314766
+      Wario_116: -179582847
+      Wario_117: -1246014170
+      Wario_118: -1207634982
+      Wario_119: -1760755607
+      Wario_12: -237838354
+      Wario_120: -2018272359
+      Wario_121: 1075116870
+      Wario_122: 1631651754
+      Wario_123: 157852358
+      Wario_124: 285719745
+      Wario_125: -1883646261
+      Wario_126: -1185004633
+      Wario_127: -1162950336
+      Wario_128: -866703653
+      Wario_129: -250601476
+      Wario_13: -1694934845
+      Wario_130: -1878449830
+      Wario_131: -1668296183
+      Wario_132: 548906205
+      Wario_133: -279184652
+      Wario_134: -2138255317
+      Wario_135: -1758437873
+      Wario_136: 136518556
+      Wario_137: -1971992908
+      Wario_138: 1437130125
+      Wario_139: 2062564473
+      Wario_14: 1193950308
+      Wario_140: -116117982
+      Wario_141: -1348345681
+      Wario_142: 1564209780
+      Wario_143: 2009653736
+      Wario_144: -442960503
+      Wario_145: 2101476853
+      Wario_146: -1343204503
+      Wario_147: -971826269
+      Wario_148: -1011340296
+      Wario_149: 678436656
+      Wario_15: 1835129773
+      Wario_150: -1279400399
+      Wario_151: -270279896
+      Wario_152: -1870911276
+      Wario_153: -2063410192
+      Wario_154: -446166389
+      Wario_155: -368523941
+      Wario_156: 1321479754
+      Wario_157: -1057374850
+      Wario_158: -2014952663
+      Wario_159: 1196040053
+      Wario_16: 1033755638
+      Wario_160: -1818145469
+      Wario_161: -940885336
+      Wario_162: 1742336646
+      Wario_163: 149620291
+      Wario_164: -1644555824
+      Wario_165: -682952794
+      Wario_166: -226056262
+      Wario_167: 501161950
+      Wario_168: 1569181609
+      Wario_169: -1840486190
+      Wario_17: -187260788
+      Wario_170: 75485800
+      Wario_171: -616110550
+      Wario_172: -635352779
+      Wario_173: 1056630622
+      Wario_174: -224338453
+      Wario_175: -913925246
+      Wario_176: 79859576
+      Wario_177: 765312367
+      Wario_178: 358522679
+      Wario_179: 285039298
+      Wario_18: 1745696774
+      Wario_180: -1683857569
+      Wario_181: 1065960474
+      Wario_182: 138218491
+      Wario_183: -1673196156
+      Wario_184: 1143169389
+      Wario_185: 458536112
+      Wario_186: -543131290
+      Wario_187: 543429257
+      Wario_188: -1520380191
+      Wario_189: -1355461258
+      Wario_19: -528849860
+      Wario_190: 237887083
+      Wario_191: 1428746347
+      Wario_192: 1997954653
+      Wario_193: 789325150
+      Wario_194: 108789729
+      Wario_195: -8430841
+      Wario_196: 1843082170
+      Wario_197: 8723140
+      Wario_198: 1733491268
+      Wario_199: 629482721
+      Wario_2: -541032865
+      Wario_20: -494898646
+      Wario_200: 210900153
+      Wario_201: -1720034205
+      Wario_202: -2109966630
+      Wario_203: -560944421
+      Wario_204: 289051498
+      Wario_205: 221946001
+      Wario_206: -1133682509
+      Wario_207: 851761049
+      Wario_208: 1441404447
+      Wario_209: 1982671964
+      Wario_21: -2067312086
+      Wario_210: 140962559
+      Wario_211: -712741176
+      Wario_212: 760095382
+      Wario_213: 1886211101
+      Wario_214: -370148903
+      Wario_215: -1455647936
+      Wario_216: -953271456
+      Wario_217: -2030219888
+      Wario_218: -1805774894
+      Wario_219: -568813506
+      Wario_22: 773992682
+      Wario_220: 98521201
+      Wario_221: -1584317766
+      Wario_222: 1260265461
+      Wario_223: 460954695
+      Wario_224: -2021971296
+      Wario_225: 183046395
+      Wario_226: 2084423788
+      Wario_227: 1376966070
+      Wario_228: 1315285225
+      Wario_229: 283632803
+      Wario_23: 268945463
+      Wario_230: 2039657107
+      Wario_231: -1343724309
+      Wario_232: 1319405653
+      Wario_233: -1575315600
+      Wario_234: 216468241
+      Wario_235: 1633798527
+      Wario_236: 1911434623
+      Wario_237: -775363633
+      Wario_238: 1632293091
+      Wario_239: -548461774
+      Wario_24: -1558583118
+      Wario_240: -241290037
+      Wario_241: 1792799039
+      Wario_242: 345212716
+      Wario_243: -839673426
+      Wario_244: -2034749584
+      Wario_245: -1199088670
+      Wario_246: 1778811441
+      Wario_247: -25291420
+      Wario_248: -633422091
+      Wario_249: 2086911473
+      Wario_25: 2104159859
+      Wario_250: -2117535304
+      Wario_251: 68810562
+      Wario_252: -425183016
+      Wario_253: 592063406
+      Wario_254: 1900016225
+      Wario_255: -1238470183
+      Wario_256: 1493871218
+      Wario_257: 1670978836
+      Wario_258: -1633478413
+      Wario_259: -613819377
+      Wario_26: -524760325
+      Wario_260: 1261725618
+      Wario_261: 1714074293
+      Wario_262: -1279875698
+      Wario_263: -79934927
+      Wario_264: 1318859513
+      Wario_265: 1690954834
+      Wario_266: -1667495463
+      Wario_267: 703565017
+      Wario_268: -1904778458
+      Wario_269: -564750953
+      Wario_27: 1214494341
+      Wario_270: 664598808
+      Wario_271: 1317601400
+      Wario_272: -1174911805
+      Wario_273: 1016146962
+      Wario_274: -1348086064
+      Wario_275: -1466387565
+      Wario_276: 177604471
+      Wario_277: 1210754878
+      Wario_278: 434186659
+      Wario_279: -759931230
+      Wario_28: -912791268
+      Wario_280: 1147615149
+      Wario_281: 2052111703
+      Wario_282: -1543244331
+      Wario_283: 1376693572
+      Wario_284: -342793217
+      Wario_285: -144642777
+      Wario_286: -572899849
+      Wario_287: 1245224265
+      Wario_288: 1148819529
+      Wario_289: -537858514
+      Wario_29: -1926028199
+      Wario_290: 1253293959
+      Wario_291: -1534193208
+      Wario_292: 152642163
+      Wario_293: -9744153
+      Wario_294: -1029380873
+      Wario_295: -1305743423
+      Wario_296: -963595015
+      Wario_297: -278368592
+      Wario_298: 1355153156
+      Wario_299: -1994521035
+      Wario_3: 1321198722
+      Wario_30: -122360950
+      Wario_300: 2027440567
+      Wario_301: 59859084
+      Wario_31: 1596193734
+      Wario_32: 1394665830
+      Wario_33: -646174203
+      Wario_34: 1507242394
+      Wario_35: 856641237
+      Wario_36: -1242208665
+      Wario_37: -1697265360
+      Wario_38: -1249831223
+      Wario_39: -1094854206
+      Wario_4: 5534249
+      Wario_40: 1679070241
+      Wario_41: -937441793
+      Wario_42: 781995520
+      Wario_43: 1088079300
+      Wario_44: -1239411702
+      Wario_45: 127260085
+      Wario_46: -310190945
+      Wario_47: 825695264
+      Wario_48: -939832728
+      Wario_49: -1519014853
+      Wario_5: 582816356
+      Wario_50: -682176171
+      Wario_51: 734772417
+      Wario_52: -1148467568
+      Wario_53: 42688804
+      Wario_54: -2096245051
+      Wario_55: 452329757
+      Wario_56: 1978408635
+      Wario_57: -1096293503
+      Wario_58: 347623072
+      Wario_59: -897025145
+      Wario_6: -1950796623
+      Wario_60: -1288141975
+      Wario_61: 157130903
+      Wario_62: -1481784667
+      Wario_63: -907458912
+      Wario_64: 475673512
+      Wario_65: -406229099
+      Wario_66: -1999399962
+      Wario_67: -230487332
+      Wario_68: 63609041
+      Wario_69: 749496699
+      Wario_7: -844628623
+      Wario_70: 477850934
+      Wario_71: 1885099826
+      Wario_72: -2046229603
+      Wario_73: 1792172190
+      Wario_74: 1440063037
+      Wario_75: 828969288
+      Wario_76: 1878055077
+      Wario_77: -61965027
+      Wario_78: -1006553586
+      Wario_79: -353687567
+      Wario_8: 408202124
+      Wario_80: -1714257219
+      Wario_81: 54590197
+      Wario_82: -1484490747
+      Wario_83: 1808526968
+      Wario_84: 1584661491
+      Wario_85: 528123663
+      Wario_86: -487920556
+      Wario_87: -1814817989
+      Wario_88: -1545409236
+      Wario_89: 1004766792
+      Wario_9: 1891715591
+      Wario_90: 1329431832
+      Wario_91: 1402494769
+      Wario_92: -603535615
+      Wario_93: 929825074
+      Wario_94: -2095285897
+      Wario_95: 1602532699
+      Wario_96: 355822168
+      Wario_97: -1848885555
+      Wario_98: -485606521
+      Wario_99: 23996861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

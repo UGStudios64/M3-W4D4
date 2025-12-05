@@ -1,0 +1,43 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class PlayerMove : MonoBehaviour
+{
+    [SerializeField][Range(0f, 20f)] float speed;
+    [SerializeField] private Rigidbody2D rb;
+
+    private float horizontal;
+    private float vertical;
+    private Vector2 direction;
+
+
+    // GAME //-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+    void Awake()
+    {
+        if (rb == null) rb = GetComponent<Rigidbody2D>();
+    }
+
+    void Update()
+    {
+        horizontal = Input.GetAxis("Horizontal");
+        vertical = Input.GetAxis("Vertical");
+    }
+
+    private void FixedUpdate()
+    {
+        direction = new Vector2(horizontal, vertical);
+
+        // NORMALIZZAZIONE DEL VETTORE //
+        float mag = direction.magnitude;
+        if (mag > 1f) direction /= mag;
+
+        rb.MovePosition(rb.position + direction * (speed * Time.fixedDeltaTime));
+        
+    }
+
+
+    // FUNCTIONS //-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+    public Vector2 GetDirection()
+    { Vector2 direct = direction; return direct; }
+}
