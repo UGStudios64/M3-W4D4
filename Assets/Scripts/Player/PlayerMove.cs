@@ -6,8 +6,8 @@ public class PlayerMove : MonoBehaviour
 {
     [SerializeField][Range(0f, 10f)] float speed;
     [SerializeField] private Rigidbody2D rb;
-    [SerializeField] private bool IsMoving;
 
+    public bool IsMoving;
     private float horizontal;
     private float vertical;
     private Vector2 direction;
@@ -31,12 +31,11 @@ public class PlayerMove : MonoBehaviour
     {
         direction = new Vector2(horizontal, vertical);
 
-        // NORMALIZZAZIONE DEL VETTORE //
+        // Vector normalized
         float mag = direction.magnitude;
         if (mag > 1f) direction /= mag;
 
         rb.MovePosition(rb.position + direction * (speed * Time.fixedDeltaTime));
-        
     }
 
 
