@@ -457,9 +457,9 @@ TextureImporter:
       name: Wario_17
       rect:
         serializedVersion: 2
-        x: 12
+        x: 13
         y: 894
-        width: 25
+        width: 24
         height: 33
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -478,9 +478,9 @@ TextureImporter:
       name: Wario_18
       rect:
         serializedVersion: 2
-        x: 42
+        x: 43
         y: 893
-        width: 24
+        width: 23
         height: 34
       alignment: 7
       pivot: {x: 0.5, y: 0}

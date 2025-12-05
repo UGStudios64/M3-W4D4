@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
-    [SerializeField][Range(0f, 20f)] float speed;
+    [SerializeField][Range(0f, 10f)] float speed;
     [SerializeField] private Rigidbody2D rb;
+    [SerializeField] private bool IsMoving;
 
     private float horizontal;
     private float vertical;
@@ -22,6 +23,8 @@ public class PlayerMove : MonoBehaviour
     {
         horizontal = Input.GetAxis("Horizontal");
         vertical = Input.GetAxis("Vertical");
+
+        IsMoving = direction != Vector2.zero;
     }
 
     private void FixedUpdate()
@@ -39,5 +42,8 @@ public class PlayerMove : MonoBehaviour
 
     // FUNCTIONS //-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
     public Vector2 GetDirection()
-    { Vector2 direct = direction; return direct; }
+    { return direction; }
+
+    public bool GetMove()
+    { return IsMoving; }
 }
