@@ -4,14 +4,21 @@ using UnityEngine;
 
 public class Gun : MonoBehaviour
 {
-    [SerializeField][Range(0f, 5f)] float fireRate;
-    [SerializeField] float fireRange;
+    [SerializeField][Range(0f, 5f)] private float fireRate;
+    [SerializeField] private float fireRange;
     [SerializeField] private Bullet bulletPrefab;
+
+    [SerializeField] private float destroyTime;
 
     private float lastShoot;
 
 
     // GAME //-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+    private void Start()
+    {
+        Destroy(gameObject, destroyTime);
+    }
+
     private void Update()
     {
         Shoot();

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1789256806464913700}
   - component: {fileID: 493462228219666551}
   - component: {fileID: 778648975798477506}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fire_Ball
   m_TagString: Bullet
   m_Icon: {fileID: 0}
@@ -30,7 +30,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.973, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.1364, y: 1.1364, z: 1.1364}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7990630952457008431}
@@ -50,9 +50,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1789256806464913700}
-  damage: 62
-  speed: 3.99
-  despawn: 5.06
+  damage: 1
+  speed: 5
+  despawn: 5
 --- !u!50 &1789256806464913700
 Rigidbody2D:
   serializedVersion: 4
@@ -61,7 +61,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6045240585158618722}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -79,7 +79,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!210 &493462228219666551
 SortingGroup:
   m_ObjectHideFlags: 0
@@ -90,7 +90,7 @@ SortingGroup:
   m_Enabled: 1
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_SortAtRoot: 0
 --- !u!58 &778648975798477506
 CircleCollider2D:
@@ -239,7 +239,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.75251, y: 0.75251, z: 0.75251}
+  m_LocalScale: {x: 0.8969167, y: 0.8969167, z: 0.8969167}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2288264271650935537}

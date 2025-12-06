@@ -52,6 +52,18 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -1467647942, guid: adbfb40976a34414a89d8a7f7c891f20, type: 3}
+    - target: {fileID: 5545163713354879622, guid: bfe280d215ff66048bb0e8df85f5c86a, type: 3}
+      propertyPath: speed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5545163713354879622, guid: bfe280d215ff66048bb0e8df85f5c86a, type: 3}
+      propertyPath: damage
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5545163713354879622, guid: bfe280d215ff66048bb0e8df85f5c86a, type: 3}
+      propertyPath: despawn
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6045240585158618722, guid: bfe280d215ff66048bb0e8df85f5c86a, type: 3}
       propertyPath: m_Name
       value: Ice_Ball
