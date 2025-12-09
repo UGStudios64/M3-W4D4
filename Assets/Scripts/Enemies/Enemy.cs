@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
@@ -8,58 +6,86 @@ public class Enemy : MonoBehaviour
 
     // The distance when the Enemy start to catch the Player
     [SerializeField] protected float maxDistance;
-    protected PlayerMove player;
+
+    protected MovePlayer player;
     protected float playerDistance;
+    protected Vector2 direction;
+    protected bool IsMoving;
 
-    // The damage, and a waiting time, to avoid accidental multiple damage
+    // Damage and Wait Time, the Enemy walk back Before attacking again
     [SerializeField] protected int damage;
-    protected float wait = 0.1f;
     protected float lastAttack = -1f;
-
+    protected float wait = 0.5f;
+    protected bool IsAttack;
 
 
     // GAME //-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
     protected void Awake()
     {
-        player = FindAnyObjectByType<PlayerMove>();
+        player = FindAnyObjectByType<MovePlayer>();
+    }
+
+    protected void Update()
+    {
+        IsMoving = direction != Vector2.zero;
     }
 
     protected void FixedUpdate()
     {
-        EnemyMovement();
+        if (player == null) IsAttack = false;
+
+        if (Time.time - lastAttack > wait)
+        {
+            IsAttack = false;
+            EnemyMovement();
+        }
+        else EnemyBack();
     }
 
 
     // COLLISION //--------------------------------------------------------
     protected virtual void OnCollisionEnter2D(Collision2D other)
     {
-        if (Time.time - lastAttack > wait)
+        if (other.gameObject.CompareTag("Player"))
         {
-            if (other.gameObject.CompareTag("Player"))
-            {
-                Debug.Log($"{other.gameObject.name} take {damage} damages");
-                Life life = other.gameObject.GetComponent<Life>();
-                life.TakeDamage(damage);
-            }
-        }
-    }
+            Debug.Log($"{other.gameObject.name} take {damage} damages");
+            Life life = other.gameObject.GetComponent<Life>();
+            life.TakeDamage(damage);
 
-    protected void OnCollisionExit2D(Collision2D other)
-    {
-        if (other.gameObject.CompareTag("Player")) lastAttack = Time.time;
+            IsAttack = true;
+            lastAttack = Time.time;
+        }
     }
 
 
     // FUNCTIONS //-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
     public void EnemyMovement()
     {
-        if (player != null)
+        if (player != null && player.CompareTag("Player") && CompareTag("Enemy") && !IsAttack)
         {
             playerDistance = Vector2.Distance(player.transform.position, transform.position);
             if (playerDistance < maxDistance)
             {
                 transform.position = Vector2.MoveTowards(transform.position, player.transform.position, speed * Time.deltaTime);
-            }  
+                direction = new Vector2(player.transform.position.x - transform.position.x, player.transform.position.y - transform.position.y);
+            }
         }
     }
+
+    public void EnemyBack()
+    {
+        if (IsAttack)
+        {
+            transform.position = Vector2.MoveTowards(transform.position, player.transform.position, -speed * Time.deltaTime);
+            direction = new Vector2(player.transform.position.x - transform.position.x, player.transform.position.y - transform.position.y);
+        }
+    }
+
+
+    // GET //--------------------------------------------------------
+    public Vector2 GetDirection()
+    { return direction; }
+
+    public bool GetMove()
+    { return IsMoving; }
 }

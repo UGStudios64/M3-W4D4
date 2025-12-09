@@ -1,26 +1,34 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Gun : MonoBehaviour
 {
     [SerializeField][Range(0f, 5f)] private float fireRate;
     [SerializeField] private float fireRange;
-    [SerializeField] private Bullet bulletPrefab;
-
-    [SerializeField] private float destroyTime;
-
     private float lastShoot;
+
+    [SerializeField] private Bullet bulletPrefab;
+    [SerializeField] private float destroyTime;
+    public bool Timed = true;
+    private MovePlayer player;
+
+    [SerializeField] private AudioSource source;
+    [SerializeField] private AudioClip pickup;
 
 
     // GAME //-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
     private void Start()
     {
-        Destroy(gameObject, destroyTime);
+        player = GetComponentInParent<MovePlayer>();
+        if (Timed) Destroy(gameObject, destroyTime);
+
+        if (source == null) source = GetComponent<AudioSource>();
+        source.PlayOneShot(pickup);
+
     }
 
     private void Update()
     {
+        if (!player.CompareTag("Player")) Destroy(gameObject);
         Shoot();
     }
 

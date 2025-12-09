@@ -9,16 +9,20 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 4279464888477617109, guid: 0f33d5aa7ed35884099d96740fc884ca, type: 3}
+      propertyPath: pickup
+      value: 
+      objectReference: {fileID: 8300000, guid: 58a00e2d5997f254abb5a75cedf011a2, type: 3}
+    - target: {fileID: 4279464888477617109, guid: 0f33d5aa7ed35884099d96740fc884ca, type: 3}
       propertyPath: fireRate
       value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 4279464888477617109, guid: 0f33d5aa7ed35884099d96740fc884ca, type: 3}
       propertyPath: fireRange
-      value: 7
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4279464888477617109, guid: 0f33d5aa7ed35884099d96740fc884ca, type: 3}
       propertyPath: destroyTime
-      value: 7
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4279464888477617109, guid: 0f33d5aa7ed35884099d96740fc884ca, type: 3}
       propertyPath: bulletPrefab

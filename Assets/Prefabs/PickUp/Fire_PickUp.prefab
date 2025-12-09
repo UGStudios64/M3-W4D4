@@ -81,7 +81,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   weapon: {fileID: 7991614550861338215, guid: 0f33d5aa7ed35884099d96740fc884ca, type: 3}
-  reSpawn: 5
+  reSpawn: 7
 --- !u!58 &6093517726087863485
 CircleCollider2D:
   m_ObjectHideFlags: 0
